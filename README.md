@@ -6,7 +6,7 @@ Universidad de Palermo – 2026 – Profesor: Matías Chiesa
 - Paloma Ramallo Yaksic
 - Agustina Nabias
 - Camila Milagros Perez
-- Esteban 
+- Esteban Riarte
 - Guido Landini Vorrath
 
 ## Contenido
